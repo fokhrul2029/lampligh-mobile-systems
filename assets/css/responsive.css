@@ -1,0 +1,29 @@
+@media (max-width: 766px) {
+  .HomePage img {
+    display: none;
+  }
+  .appDetails .allBlocks {
+    display: block !important ;
+    border: none !important;
+  }
+  .appDetails .allBlocks .blocks {
+    border: none !important ;
+  }
+  .appDetails .allBlocks .blocksB {
+    border: none !important;
+    border-top: 1px solid rgba(163, 157, 157, 0.774) !important;
+    border-bottom : 1px solid rgba(163, 157, 157, 0.774) !important;
+  }
+  .reviewSection .reviewBlocks {
+    display: block !important;
+  }
+  .reviewSection .reviewBlocks .reviewBorder{
+        border-bottom: 1px solid rgba(197, 192, 192, 0.363) ;
+        display: block ;
+        margin-top: 15px ;
+        margin-bottom: 30px ;
+  }
+  .contactSection .contactImg{
+    margin-top: 30px ;
+  }
+}

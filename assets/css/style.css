@@ -1,0 +1,33 @@
+img {
+  max-width: 100%;
+}
+/* Backgroumd Color's CSS */
+.bg-sky {
+  /* background-color: rgb(5, 167, 175) ; */
+  background-image: linear-gradient(159deg, rgba(5, 167, 175), rgb(0, 51, 58));
+}
+.bg-blue {
+  background-color: #071332;
+}
+.bg-black {
+  background-color: rgb(20, 33, 64);
+}
+.text-sky {
+  color: rgb(161, 235, 250);
+}
+
+/* Home Page CSS */
+.logo img {
+  max-width: 30px;
+  margin-top: -30px;
+}
+.logo span {
+  width: 143px !important;
+  display: inline-block;
+  font-size: 15px !important;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.fsA {
+  font-size: 70px;
+}
